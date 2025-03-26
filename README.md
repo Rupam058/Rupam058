@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 
 # 🎯 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rupam058&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rupam058&limit=5&theme=dark&combine_all_yearly_contributions=true)
