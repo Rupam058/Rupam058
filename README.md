@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on Designing my Personal Portfolio website.
+- 🔭 I’m currently working on designing my personal portfolio website.
 - 🌱 I’m currently learning Next.js, Laravel.
 - 💬 Ask me about 🧑‍💻coding, 🧑‍💼finance, 🙇‍♂️philosophy.
 - 📫 Reach me: rupam.irp@gmail.com 
