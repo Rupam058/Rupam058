@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rupam058&theme=dark&hide_border=false)</br>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rupam058&theme=cobalt)</br>
 -->
 
 - 🔭 I’m currently working on designing my personal portfolio website.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🌍 Anime bridges cultures across 130+ countries, with a global market roaring at $24.23 billion in 2020! 🚀
 
 # 🎯 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rupam058&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rupam058&theme=dark)</br>
