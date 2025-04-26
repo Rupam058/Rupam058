@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Rupam058&theme=cobalt)</br>
 -->
 
-- 🔭 I’m currently working on designing my personal portfolio website.
+- 🔭 I’m currently working on my personal portfolio website.
 - 🌱 I’m currently learning Next.js, Laravel.
 - 💬 Ask me about 🧑‍💻coding, 🧑‍💼finance, 🙇‍♂️philosophy.
 - 📫 Reach me: rupam.irp@gmail.com 
